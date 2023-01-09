@@ -8,16 +8,4 @@
 		</classes>
 	</test>
 	
-	<test name="AlertsTests">
-		<classes>
-			<class name="com.herokuapp.theinternet.alertstests.AlertsTests" />
-		</classes>
-	</test>
-
-	<test name="UploadTests">
-		<classes>
-			<class name="com.herokuapp.theinternet.uploadtests.UploadTests" />
-		</classes>
-	</test>
-	
 </suite>

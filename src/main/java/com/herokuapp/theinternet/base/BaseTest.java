@@ -52,7 +52,7 @@ public class BaseTest {
 	public void tearDown() {
 		log.info("Close driver");
 		// Close browser
-		driver.close();
+		driver.quit();
 	}
 
 }
