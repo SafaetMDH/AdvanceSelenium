@@ -1,0 +1,18 @@
+Steps to follow design the test:
+1. create a page class:
+    1. bring driver alive
+ a. grab elements
+ b. create paramitarised constructor
+ c. create methods
+
+2. create a test class and create test methods
+3. create connection between java classes
+
+Setps to follow to test:
+1. land on home page
+2. click on add/remove link
+3. Asset i am in the correct page
+4. click on add element
+5. Assert delete button has been added
+6. click on the created element "Delete"
+7. assert delete button not present.
